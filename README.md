@@ -3,10 +3,10 @@
 ## Tech Used
 
 Language: Python
+
 Packages: Tensorflow, Keras
 
 ## Dataset
-
 ### Dataset information
 
 The dataset contains two directories
