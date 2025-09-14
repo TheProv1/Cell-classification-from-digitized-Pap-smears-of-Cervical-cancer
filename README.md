@@ -24,7 +24,7 @@ Dataset link: https://www.kaggle.com/competitions/pap-smear-cell-classification-
 
 ## Code Description
 
-1. core_values.py
+#### core_values.py
 	Contains the values which are used in both the scripts wherein their values must be equivalent
 
 2. project.ipynb	
