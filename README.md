@@ -1,5 +1,9 @@
 # Cell classification from digitized Pap smears of Cervical cancer
 
+You will need to use  pip install -r requirements.txt
+
+This command will install all the packages needed, also change the file paths
+
 ## Tech Used
 
 Language: Python
@@ -29,3 +33,5 @@ Dataset link: https://www.kaggle.com/competitions/pap-smear-cell-classification-
 2. project.ipynb: Main code consisting of the model definition, image augmentation, and training
 
 3. preprocess_data.ipynb: Script for loading, pre-processesing, and normalizing the data. Finally, storing the normalized data into a new directory for quick read and access
+
+
