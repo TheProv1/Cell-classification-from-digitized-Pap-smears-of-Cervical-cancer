@@ -1,4 +1,4 @@
-BATCH_SIZE: int = 16
+BATCH_SIZE: int = 8
 SEED: int = 123
 LABEL_MODE: str = 'int'
 IMAGE_SIZE: tuple = (224, 224)
