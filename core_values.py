@@ -6,3 +6,4 @@ INTERPOLATION: str = "bilinear"
 COLOR: str = 'rgb'
 LABELS: str = "inferred"
 VALIDATION_SPLIT: float = 0.3
+DATA_PATH: str = "/mnt/d/Tojo Sir - Project/"
